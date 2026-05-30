@@ -1,0 +1,9 @@
+﻿Experiment,Model,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Base,Logistic Regression,0.676,0.6222,0.4058,0.4912,0.7035
+Base,Random Forest,0.5922,0.4714,0.4783,0.4748,0.6412
+Exp-1,Logistic Regression,0.8268,0.8276,0.6957,0.7559,0.8594
+Exp-1,Random Forest,0.7933,0.7353,0.7246,0.7299,0.8185
+Exp-2,Logistic Regression,0.7989,0.7705,0.6812,0.7231,0.8494
+Exp-2,Random Forest,0.8101,0.7612,0.7391,0.75,0.8255
+Exp-3,Logistic Regression,0.8212,0.8136,0.6957,0.75,0.8601
+Exp-3,Random Forest,0.8101,0.7612,0.7391,0.75,0.8158

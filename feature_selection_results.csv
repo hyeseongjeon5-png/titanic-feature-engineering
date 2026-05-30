@@ -1,0 +1,5 @@
+﻿Experiment,Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,Selected Features
+Exp-1,Logistic Regression,0.8268,0.8276,0.6957,0.7559,0.8594,All
+Exp-1,Random Forest,0.7933,0.7353,0.7246,0.7299,0.8185,All
+Exp-1 + Feature Selection,Logistic Regression,0.8156,0.8,0.6957,0.7442,0.8536,8
+Exp-1 + Feature Selection,Random Forest,0.7877,0.7246,0.7246,0.7246,0.8273,8
